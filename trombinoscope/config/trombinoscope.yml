@@ -1,0 +1,21 @@
+defaults:
+  photo_path: './photos/'
+
+database:
+  host: "localhost"
+  port: 8081
+  user: "ISEN"
+  password: "ISEN"
+  database: "trombinoscope"
+
+branding:
+  window_title: 'Trombinoscope Simplon'
+  window_size: '400x400'
+  image_path: './trombinoscope/images/'
+  add_icon: 'add.png'
+  edit_icon': 'edit.png'
+  delete_icon': 'delete.png'
+  save_icon': 'save.png'
+  cancel_icon': 'cancel.png'
+  odd_line_background': 'snow'
+  even_line_background': 'LightBlue1'

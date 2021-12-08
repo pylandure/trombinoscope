@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python            = 3.7
+  - setuptools        = 59.4
+  - tk
+  - pip
+  - pip: 
+    - tk-tools        ~= 0.14
+    - pyyaml          ~= 6.0
+    - mysql-connector-python ~= 8.0
